@@ -18,7 +18,7 @@ STM32 MCU와 FreeRTOS를 활용하여 엘리베이터 시스템을 설계 및 �
 | ⚙️ 우선순위 기반 Task 관리 | LCD, 모터, 디스플레이, 센서 Task 분리 & 효율화
 
 ## 🖥 시스템 구성도
-![image](https://github.com/user-attachments/assets/9a2e1807-7398-4199-90b6-61585cb9b6fa)
+![image](https://github.com/user-attachments/assets/d3e811ab-fae2-4b5c-9455-1e805976367f)
 
 - 버튼/센서 ↔ STM32 ↔ FreeRTOS Task ↔ I2C LCD/FND/Dot Matrix ↔ Step Motor ↔ 사용자
 
